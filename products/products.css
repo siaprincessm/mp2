@@ -1,0 +1,28 @@
+.product-page-content {
+    text-align: center;
+    margin: 20px;
+}
+
+.product-image {
+    width: 300px;
+    height: 300px;
+}
+
+.product-info {
+    margin: 20px;
+}
+
+.product-name {
+    font-size: xx-large;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.product-description {
+    margin-bottom: 10px;
+}
